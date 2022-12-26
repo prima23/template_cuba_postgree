@@ -2,7 +2,7 @@
 <script src="<?= base_url('assets/'); ?>js/bootstrap/bootstrap.bundle.min.js"></script>
 <script src="<?= base_url('assets/'); ?>js/icons/feather-icon/feather.min.js"></script>
 <script src="<?= base_url('assets/'); ?>js/icons/feather-icon/feather-icon.js"></script>
-<!-- <script src="<?= base_url('assets/'); ?>js/sidebar-menu.js"></script> -->
+<script src="<?= base_url('assets/'); ?>js/sidebar-menu.js"></script>
 <script src="<?= base_url('assets/'); ?>js/scrollbar/simplebar.js"></script>
 <script src="<?= base_url('assets/'); ?>js/sweet-alert/dist/sweetalert2.all.min.js"></script>
 <script src="<?= base_url('assets/'); ?>js/waitme/waitMe.js"></script>
